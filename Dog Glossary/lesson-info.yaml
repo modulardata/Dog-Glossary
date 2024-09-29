@@ -1,0 +1,8 @@
+type: framework
+content:
+  - Random dog
+  - Requested dog breed
+  - Requested sub-breed
+  - All breeds
+  - Add some style
+current_task: 0
