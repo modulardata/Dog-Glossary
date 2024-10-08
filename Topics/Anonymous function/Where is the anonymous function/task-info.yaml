@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "<code>function greet () {<br>  return 'Hello world!'; <br>}</code>"
+  - text: "<code>let greet = function () { <br>return 'Hello world!' <br>}</code>"
+  - text: <code>let greet = () =&gt; 'Hello world!'</code>
+  - text: "<code>(function () {<br>return 'Hello world'<br>})()</code>"
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/26925#comment
+status: Solved
+record: -1
+custom_name: Where is the anonymous function?
+local_check: false

@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: When we need to pass a function as a parameter to another function
+  - text: When we need to immediately call the created function
+  - text: When we need to create a function with an explicit name for easier reference
+  - text: When we need to use a function only once
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/26926#comment
+status: Solved
+record: -1
+local_check: false
